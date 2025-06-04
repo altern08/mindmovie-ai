@@ -1,2 +1,3 @@
-# mindmovie-ai
-MindMovie AI Builder with video affirmations and subconscious rewiring
+# MindMovie AI
+
+This is a placeholder for your React MindMovie AI app.

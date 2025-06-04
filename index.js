@@ -1,0 +1,1 @@
+console.log('MindMovie AI Loaded');
